@@ -1,0 +1,13 @@
+1. Create a Github account
+- Create a repository and transfer it to local file (computer) 
+
+2. Download Cursor App
+*Cursor: An AI Code Editor
+- Import the file that has already been transfer to local file into the Cursor app 
+- Ask AI what's your need and ask it to apply it into the file (command)
+
+3. Github Task
+- Git Clone
+- Git Add
+- Git Commit
+- Git Push
