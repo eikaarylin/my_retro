@@ -1,0 +1,9 @@
+1. Phoenix Installation
+- Elixir
+- Erlang
+
+2. Postgresql Installation
+
+3. Node.js Installation
+
+4. Make an website using Cursor
