@@ -1,0 +1,10 @@
+1. Buat task yang diberi
+- Gunakan aplikasi yang sudah dibina (my_app)
+- Cipta repositori baharu pada Github iaitu my_app
+- Muat naik aplikasi my_app ke dalam repo Github
+
+2. Buat task mix phx.gen.live
+- Seperti rangka website
+- belajar cara mencipta rangka website dan muka depan website
+
+3. Buat persediaan dan pembahagian tugasan untuk group assignment mix phx.gen.live

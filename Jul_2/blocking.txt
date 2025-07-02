@@ -1,0 +1,2 @@
+1. Sulit untuk memahami arahan tugasan mix phx gen.live
+2. Sulit mengaplikasikan semula cara kerja mix phx gen.live untuk group assignment
