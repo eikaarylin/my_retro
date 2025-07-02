@@ -7,4 +7,6 @@
 - Seperti rangka website
 - belajar cara mencipta rangka website dan muka depan website
 
-3. Buat persediaan dan pembahagian tugasan untuk group assignment mix phx.gen.live
+3. Belajar cara push any changes/updates from cursor to github
+
+4. Buat persediaan dan pembahagian tugasan untuk group assignment mix phx.gen.live
