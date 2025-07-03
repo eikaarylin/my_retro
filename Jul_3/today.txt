@@ -1,1 +1,3 @@
-
+Morning Class 
+1. Working on the group assignment and making progress with mix phx.gen.live slide
+2. Recap the mixphx.gen.live tasks
