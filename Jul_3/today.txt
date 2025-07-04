@@ -1,3 +1,17 @@
-Morning Class 
 1. Working on the group assignment and making progress with mix phx.gen.live slide
-2. Recap the mixphx.gen.live tasks
+2. Recap the mix phx.gen.live task
+
+What I learned:
+- mix phx.gen.live is a command to generate real-time CRUD pages using Phoenix LiveView.
+- It auto-creates files like LiveView modules, HTML templates, routes, and database schema.
+
+Function:
+- Makes it faster to build user interfaces that update without refreshing the page.
+- Helps beginners understand the full flow (from database to frontend).
+
+What I did:
+- Ran the command in Cursor terminal.
+- Explored the generated files (LiveView, HEEX templates, context)
+- Migrated database using mix ecto.migrate.
+
+3. Presenting the group assignment task

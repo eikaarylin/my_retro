@@ -1,0 +1,3 @@
+1. Group assignment presentation (mix phx.gen.live)
+- Learn the commands meaning and its functions
+- Need to explore more about the commands in Cursor

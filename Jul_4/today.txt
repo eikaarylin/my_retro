@@ -1,0 +1,12 @@
+1. Figma
+- Explored various functions and tools in Figma
+- Learned how to design, prototype
+
+2. Mobbin
+- Used Mobbin to study design patterns and wireframe ideas
+-Referred to real app designs for inspiration
+
+3. Others
+Learned the difference between:
+- Low-fidelity wireframe: basic layout, simple shapes, no colors
+- High-fidelity wireframe: detailed design with fonts, colors, images, and interaction
