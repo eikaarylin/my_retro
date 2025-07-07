@@ -1,1 +1,1 @@
-
+It is hard to understand the CRUD concept for the presentation, especially how the frontend works and how it is linked to the backend.
