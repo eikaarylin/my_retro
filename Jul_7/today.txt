@@ -1,0 +1,30 @@
+CRUD 
+- Add new data manually using cursor, and add it into PgAdmin4 database
+
+STEP BY STEP --
+- Using CMD Cursor, run: iex -S mix phx.server
+- Run in iex
+
+1. C (Create)  -refer to refmodule in shop.ex
+- Florist.Shop.create_order (%{field: value})
+- NOTE: Date format for CURSOR "yy-mm-dd"
+
+2. R (Read)
+- LIST: Florist.Shop.list_orders  (Tunjuk semua)
+- GET: 
+* 1. Florist.Shop.get_order!()  (FORCE)
+  2. Florist.Shop.get_order()   (Shows NIL - no data)
+- Recompile in cmd terminal
+
+3. U (Updates)
+- Florist.Shop.get_orders (id)
+- Current order = Florist.Shop.get_orders (id)
+- Florist.Shop.update_order (current_order, %{field: value})
+
+4. D (Delete)
+- Florist.Shop.list_orders(id)
+- Florist.Shop.get_order(id)
+- Current_order = Florist.Shop.get_order(id)
+- Florist.Shop.delete_order(current_order)
+
+* Group Assignment: Present what happends at frontend CRUD.
