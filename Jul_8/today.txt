@@ -14,5 +14,9 @@
 
 *defp
 - used to define a private function
-- can only be callefd inside the same module 
+- can only be called inside the same module 
 - used as helper functions
+
+*Belajar tambah column dalam website secara manual dari Cursor
+- add details/ attributes column, cth: age, gender, address
+- mix ecto.gen.migration
