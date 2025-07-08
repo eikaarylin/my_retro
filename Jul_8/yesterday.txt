@@ -1,0 +1,22 @@
+
+🔄 CRUD Process
+Using CMD (Cursor):
+
+1. Create
+Florist.Shop.create_order(%{field: value})
+- Add new data manually (date: ~D[yyyy-mm-dd])
+
+2. Read
+- list_orders() → Show all
+- get_order(id) / get_order!(id) → Get specific
+
+3. Update
+- order = get_order(id)
+- update_order(order, %{field: new_value})
+
+4. Delete
+- order = get_order(id)
+- delete_order(order)
+
+ 
+

@@ -1,0 +1,18 @@
+1. Group assignment preparation & presentation - C.R.U.D
+* Stream 
+- Is an efficient way to manage and update a list of data in real- time
+- Without sending the entire list back to the browser everytime there's a change
+
+🧾 How do you use it?
+- stream/3 – initializes a stream (e.g. a list of :posts)
+- stream_insert/3 – adds or updates a single item in the stream
+- stream_delete/3 – removes a single item from the stream
+
+*def
+- used to define a public function
+- can be caled form outside the module
+
+*defp
+- used to define a private function
+- can only be callefd inside the same module 
+- used as helper functions
