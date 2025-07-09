@@ -1,3 +1,2 @@
 - I’ve discovered new commands in Cursor, such as assign, socket.assigns.order, and some actions, but I'm still unclear about how they work.
 - I still don’t fully understand pattern matching 
-

@@ -1,0 +1,32 @@
+1. Pattern Matching & def
+- I learned about pattern matching, which allows Elixir functions to match different inputs and handle them accordingly.
+- Using def, we can define functions that automatically pick the right logic depending on the structure of the input.
+
+example:
+- def user_gender(%User{gender: gender}) do..
+
+2. New Commands I Learned
+IO.inspect
+→ Used to print and debug values in the terminal.
+
+case
+→ Used for conditional logic, similar to if...else, but more powerful when matching values or patterns.
+
+|> (Pipe operator)
+→ Passes the result of one function into the next — like a data flow pipeline.
+
+example:
+"hello"
+|> String.upcase()
+|> String.reverse()
+
+<> (String Join)
+→ Joins strings together.
+
+example:
+"Hello" <> " " <> "World"  # Outputs: "Hello World"
+
+- string functions
+
+
+3. Task Group Assignment - Elixir Basic Types

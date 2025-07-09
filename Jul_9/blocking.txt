@@ -1,0 +1,7 @@
+- When I added the category column to the UI, I made a mistake in one of the steps (either coding or command), and I got lost at that point. 
+The last solution was to ask ChatGPT (Cursor) to help fix the error.
+One example of the error was: “Migration failed”.
+However, I still didn’t fully understand how it worked because some new commands were used when AI fixed it.
+So, I decided to start a new project and redo all the steps from the beginning — and it worked successfully.
+
+- Also, my computer performance was slow, which made the process a bit more difficult.

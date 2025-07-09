@@ -1,0 +1,17 @@
+🧾 Group Work: CRUD + Stream
+STREAM (LiveView)
+- Updates list in real-time
+- No need to reload the full list
+
+Commands:
+- stream – start stream
+- stream_insert – add or update item
+- stream_delete – delete item
+
+🧩 def vs defp
+- def = public function (can be used outside)
+- defp = private function (used inside only)
+
+Add New Columns (Manual)
+Example: add age, gender, address
+
