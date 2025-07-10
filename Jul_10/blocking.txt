@@ -5,3 +5,5 @@
 
 This experience helped me understand that:
 - UI issues may not always be about code logic, but also about routing, component rendering, or naming.
+
+- Having problem with the NRIC task - gender & state
