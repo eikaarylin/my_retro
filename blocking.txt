@@ -1,7 +1,0 @@
-- I encountered an error where the BMI Calculator button did not appear in the user interface (UI).
-- I reviewed my code multiple times and asked ChatGPT to check if it was correct — and it was technically correct.
-  Despite that, I still couldn't see the button on screen, and it took a long time to figure out the actual cause.
-- The problem was not in the component or logic itself, but in how or where it was connected in the UI/router/layout — something small but crucial.
-
-This experience helped me understand that:
-- UI issues may not always be about code logic, but also about routing, component rendering, or naming.
