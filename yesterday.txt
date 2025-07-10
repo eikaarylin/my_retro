@@ -1,0 +1,17 @@
+1. Pattern Matching & def
+- def is used to define functions.
+- Pattern matching allows functions to handle different inputs based on their structure.
+
+2. New Commands Learned
+- IO.inspect → Prints a value for debugging.
+- case → Similar to if/else, for condition handling.
+- |> (Pipe) → Sends the output of one function into the next.
+- <> (String Join) → Combines two strings.
+
+Common string functions:
+- String.length/1
+- String.contains?/2
+-String.slice/3
+
+3. Group Task
+- Topic: Elixir Basic Data Types

@@ -1,0 +1,26 @@
+1. Mini Project -BMI Calculator
+- Built a LiveView component to calculate Body Mass Index (BMI).
+- Users can input height and weight to see real-time BMI results and categories.
+
+2. Group Presentation
+Topic: Elixir Basic Data Types
+- Basic Arithmetic: Learned to use operators like +, -, *, /.
+- Booleans and nil: Used in logic and conditional checks.
+- Atoms: Constants that are unique and memory-efficient (:ok, :error).
+- Strings: Handled using "", and explored string functions.
+
+Topic: Lists & Tuples
+- Lists []: Good for dynamic data.
+- Tuples {}: Fixed-size, used for grouped values like {status, value}.
+
+Similarities:
+- Both store any type of data.
+- Both are immutable.
+
+Differences:
+-Lists are better for long or changing data.
+- Tuples are faster for fixed and smaller data sets.
+
+3. Task today
+- Extract state and gender from a Malaysian NRIC.
+- Used pattern matching, string slicing, and map lookups.
