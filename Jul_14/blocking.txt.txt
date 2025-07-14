@@ -1,0 +1,2 @@
+Tried applying the design from Figma to the Cursor project but couldn’t fully match it. I’ve retried several times, 
+but the outcome remains the same.
