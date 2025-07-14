@@ -1,0 +1,21 @@
+1. Mini Project - BMI Calculator
+Used LiveView.
+- Input: height & weight.
+- Output: BMI & category shown in real-time.
+
+2. Group Presentation
+Basic Data Types:
+- Operations: +, -, *, /
+- Boolean & nil
+- Atoms: :ok, :error
+- Strings: use "", with string functions
+
+Lists vs Tuples:
+- Lists []: for dynamic data
+- Tuples {}: for fixed data
+- Similarities: store any data type, immutable
+- Differences: Lists for longer/changing data, Tuples are faster & fixed-size
+
+3. Task Today
+- Extract state & gender from NRIC
+- Used: pattern matching, string slicing, map lookup

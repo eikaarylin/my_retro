@@ -1,0 +1,22 @@
+1. Plan Project
+- MyILTP Website
+- Define the project goals and objectives.
+- Identify the target users and the main features needed.
+
+
+2. Task Delegation (Agihan Tugas)
+- Divide the work among team members based on skills.
+- Assign roles such as frontend, backend, design, testing, etc.
+
+
+3. Design Website
+- Create wireframes or mockups using tools like Figma.
+- Plan layout, color scheme, typography, and branding.
+
+
+4. PADI (Planning, Analysis, Design, Implementation)
+- Planning: Outline the scope, objectives, and resources.
+- Analysis: Study user needs and system requirements.
+- Design: Create technical and UI/UX designs.
+- Implementation: Start coding, testing, and deploying the system.
+

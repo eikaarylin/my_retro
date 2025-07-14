@@ -11,7 +11,7 @@
 Common string functions:
 - String.length/1
 - String.contains?/2
--String.slice/3
+- String.slice/3
 
 3. Group Task
 - Topic: Elixir Basic Data Types
