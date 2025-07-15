@@ -1,0 +1,18 @@
+Issues Encountered During Task Execution
+- During the task mix phx.gen.live Content Post posts title:string body:text user_id:references:users, several issues were encountered:
+
+1. Dropdown for user name was not generated
+
+2. Incorrect file was edited
+While attempting to fix the dropdown issue, changes were mistakenly made to a file unrelated to the generated LiveView component. 
+This led to confusion and caused errors during rendering. 
+The correct file (typically in post section file) needed to be identified and edited instead.
+
+3. Extra time was needed for debugging and manual fixes
+Manual corrections were required in multiple areas, including:
+- The LiveView form template
+- Preload logic in the context
+-Ensuring the schema included belongs_to :user
+
+
+

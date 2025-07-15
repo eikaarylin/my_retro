@@ -1,0 +1,27 @@
+1. Learn HTML, CSS & Tailwind
+i. HTML (hypertext Markup Language) *Rangka
+- Markup Language
+- Only structure
+
+ii. CSS (Cascading Style Sheet) *Kulit
+- Inline CSS (HTML + CSS in one line)
+- Internal CSS (HTML + CSS in one file)
+- External CSS (HTML + CSS in seperated files), to linked it: <head><link rel= "stylesheet" href="style.CSS"></head>
+
+iii. Tailwind CSS
+- HTML + CSS in one line 
+
+2. Mini Project (Portfolio) using HTML + CSS
+- use HTML + CSS and change it into Tailwind CSS
+- Install: Life Server 
+- Learn how to link page by page 
+- Learn how to link HTML + CSS
+
+3. Uiverse.lo (Open Source) 
+
+4. Responsive Prefixes Tailwind Prefixes
+- sm
+- md
+- lg
+- xl
+- 2xl

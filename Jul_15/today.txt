@@ -1,0 +1,28 @@
+Retrospective – LiveView Task: Post Module with user_id Relation
+1. Relationship Database (Concepts)
+- belongs_to: Used in child schema (Post) to link to parent (User)
+- has_many: Used in parent schema (User) to list all related posts
+- many_to_many: For many-to-many relations using a join table (not used here)
+
+2. Generator Command Used
+- mix phx.gen.live Content Post posts title:string body:text user_id:references:users
+- Generated schema, context, LiveView files, migrations
+
+user_id:references:users sets up belongs_to :user in Post
+
+3. Database Design
+- Table: posts
+- Fields: id, title, body, user_id, timestamps
+- Relation: Post belongs_to User, User has_many Posts
+
+
+
+
+1. Relationship Database
+- belongs_to
+- has_many
+- many_to_many
+
+2. Mix phx.gen.live Content Post posts title:string body:text user_id:references:users
+
+3. Design the Database
