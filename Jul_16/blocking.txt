@@ -1,0 +1,8 @@
+1. Errors during task: * My Library Mini Project
+- #Ecto.Association.NotLoaded<association :user is not loaded
+- key :books not found in: ..
+
+2. Still learn how to read errors in Cursor
+
+
+

@@ -1,0 +1,8 @@
+1. Relationship Database
+- belongs_to
+- has_many
+- many_to_many
+
+2. Mix phx.gen.live Content Post posts title:string body:text user_id:references:users
+
+3. Design the Database
