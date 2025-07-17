@@ -1,0 +1,43 @@
+1. Functions of Enum
+- Enum.map – transform each element
+- Enum.filter – keep elements that match a condition
+- Enum.reduce – accumulate values
+- Enum.each – run a function for side effects (like printing)
+- Enum.find – return the first matching element
+- Enum.any? – returns true if any match
+- Enum.all? – returns true if all match
+- Enum.count – count elements (optionally with a condition)
+- Enum.sort – sort elements (e.g., numbers, strings, atoms)
+- Enum.group_by – group elements into a map by key
+
+2. Difference: Enum.sort vs Enum.sort_by
+
+Enum.sort/1: directly sorts elements (alphabet, number, atom)
+Enum.sort(["banana", "apple", "cherry"])
+# => ["apple", "banana", "cherry"]
+
+
+Enum.sort_by/2: sorts based on a specific field or key
+Enum.sort_by(users, & &1.name)
+# => sorts list of structs by the `name` field
+
+
+3. Enum - used to manipulate data, based on how we want it.
+
+
+
+
+1. Functions of ENUM
+- Enum.map
+- Enum.filter
+- Enum.reduce
+- Enum.each
+- Enum.find
+- Enum.any
+- Enum.all
+- Enum.count
+- Enum.sort
+- Enum.group_by
+
+2. Learn the difference between enum.sort and enum.sort_by
+

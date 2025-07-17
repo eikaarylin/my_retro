@@ -11,15 +11,3 @@ What I Learned
 
 
 
-
-
-
-1. Task: Implement ERD My Library
-- Create new app in Command
-- Create user, book and loan table (live CRUD)
-- Update schema to (belongs_to)
-
-Learn:
-- cast_assoc  (Relay in changeset)
-- Preload
-- symbol \ - indicates cont of the coding
