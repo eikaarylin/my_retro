@@ -1,0 +1,2 @@
+1. Make an ERD for MyILTP project
+2. Designing all about the homepage part and the part that doesn't need a database

@@ -1,0 +1,13 @@
+1. Functions of ENUM
+- Enum.map
+- Enum.filter
+- Enum.reduce
+- Enum.each
+- Enum.find
+- Enum.any
+- Enum.all
+- Enum.count
+- Enum.sort
+- Enum.group_by
+
+2. Learn the difference between enum.sort and enum.sort_by

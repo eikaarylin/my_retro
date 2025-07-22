@@ -1,0 +1,5 @@
+1. mix phx.gen.auth
+- Authentication
+- Generate pre-build authentication system - password
+
+2. Task: Update profile section in setting page

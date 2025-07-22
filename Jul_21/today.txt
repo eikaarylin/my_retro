@@ -1,0 +1,16 @@
+1. mix phx.gen.auth
+What was done:
+- Used mix phx.gen.auth to add authentication to the Phoenix app.
+
+Purpose:
+- To quickly integrate a pre-built authentication system with minimal setup.
+
+Outcome:
+- User login, registration, password hashing, and session management are now set up and ready to use.
+
+Benefits:
+- Saves development time.
+- Provides secure password handling out of the box.
+
+
+

@@ -1,0 +1,14 @@
+Encounter many error during adding the update profile section in setting page:
+1. Profile Data Not Saving / “Something went wrong!”
+Problem:
+The form would not save, and you saw a generic error message.
+The real cause was a crash in the LiveView due to incorrect flash assignment.
+Fix:
+Changed from assign(socket, flash: ...) to the correct put_flash(socket, :info, ...) and put_flash(socket, :error, ...) in your LiveView.
+This is the only way to set flash messages in Phoenix LiveView.
+
+2. Cannot Save Data / No Error Details
+Problem:
+You couldn’t see why the form failed to save.
+Fix:
+Added code to show detailed validation errors in the flash using put_flash(:error, ...) so you know exactly which field is invalid.

@@ -3,7 +3,7 @@
 - Create user, book and loan table (live CRUD)
 - Update schema to (belongs_to)
 
-Learn:
+Learn and apply it during task:
 - cast_assoc  (Relay in changeset)
 - Preload
 - symbol \ - indicates cont of the coding
