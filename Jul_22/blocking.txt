@@ -1,1 +1,5 @@
-
+- ERD Understanding: Still facing some confusion in understanding how to properly connect entities with one another.
+  Planning to revisit and refine the relationships from scratch for better clarity and structure.
+- Pemohon Panel: Completed and working well — structure is clear and connections are defined.
+- Other Panels: Still in progress. Currently reviewing and improving the relationships and table structures to ensure consistency
+  and proper integration with the rest of the system.
