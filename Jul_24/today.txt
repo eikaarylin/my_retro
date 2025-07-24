@@ -1,0 +1,8 @@
+1. Continued working on the technical documentation for Doc_App.
+Tested the application, and it works well. The documentation is complete and can be used by others.
+The tasks for admin, user, and homepage design are done. The only remaining task is to allow the admin to approve other users and grant them admin privileges.
+
+Doc: https://docs.google.com/document/d/18n8sMPo65zJ3H0y9kNZvfn2z6T1n5ACslNuS4D4PJfo/edit?usp=sharing
+
+2. MyILTP has been reviewed and approved by Sir.
+The next step is to add the necessary details before exporting it into the PostgreSQL database.
