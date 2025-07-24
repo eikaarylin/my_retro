@@ -1,0 +1,3 @@
+- There were too many errors in the documentation, which needed to be checked and fixed. As a result, some important steps for completing the task were missed. 
+The documentation is now messy, so it takes time to fix it. 
+- Project done, documentation not yet.

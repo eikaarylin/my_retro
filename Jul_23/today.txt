@@ -1,0 +1,11 @@
+1. Make a documentation (technical) - Tutorial:
+The Documentation App is a Phoenix LiveView web application that supports two types of users:
+✅ admin
+✅ user
+
+After logging in, users will be redirected to different pages based on their roles. All pages require authentication and access will be filtered based on authorization.
+
+2. Make an ERD for MyILTP Project
+- The MyILTP Project is a structured system developed to manage and monitor the application, enrollment,
+and training progress of trainees under a technical and vocational training program.
+- On Progress: ERD Pemohon and Pelatih

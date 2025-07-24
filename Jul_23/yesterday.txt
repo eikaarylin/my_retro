@@ -1,0 +1,8 @@
+1. Tutorial and explanation about the mix phx.gen.auth task by Sir
+- step by step about the tutorial
+- fix the problems
+
+2. Create a work flow about register/login user (Authentication workflow)
+- workflow based on the coding 
+
+
