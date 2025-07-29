@@ -1,0 +1,3 @@
+- Had difficulty identifying which layout the code file belongs to,
+so I needed to spend more time understanding the overall structure and concepts.
+- Encountered a few errors while working on the task.

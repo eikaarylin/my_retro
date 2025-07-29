@@ -1,0 +1,10 @@
+1. Admin/ User Page
+- Side bar
+- Navigation
+- Highlighted menu
+
+Additional:
+- Burger menu
+
+2. PL, PX, PY, PR
+

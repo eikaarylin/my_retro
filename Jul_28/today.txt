@@ -1,0 +1,31 @@
+1. Admin/User Page UI Enhancements
+- This week, I focused on building and refining the structural UI components for both the Admin and User pages,
+aiming for a cleaner and more intuitive layout that supports better navigation and responsiveness.
+
+The work completed includes:
+i. Sidebar Implementation:
+Developed a collapsible sidebar layout that supports a modular navigation structure. Each menu item is dynamically generated and scoped according
+to the user's role (admin/user). Styling was adjusted using utility classes (pl, px, py, pr) to maintain consistent spacing and alignment across different screen sizes.
+
+ii. Navigation Setup:
+Integrated a clear navigation hierarchy inside the sidebar with logical grouping of links. Ensured that each route transition is smooth and role-appropriate,
+using conditional logic to redirect users after login based on their roles.
+
+iii. Highlighted Active Menu:
+The active or current menu item is now visually highlighted using Tailwind utility classes (e.g., border-left, background tone, or bold text)
+so users always know which section they're currently in. This improves usability and orientation within the app.
+
+iv. Burger Menu (Responsive Layout):
+Added a responsive burger (hamburger) menu for smaller devices or mobile views. When clicked, it toggles the visibility of the sidebar.
+This ensures the UI remains functional and user-friendly across different screen sizes and devices.
+
+
+
+- pl (padding-left) for indentation and alignment within the sidebar.
+- px (padding left + right) and py (padding top + bottom) for internal component padding.
+- pr (padding-right) to maintain spacing between text and icons.
+- py (padding on the top and bottom) of an element.
+
+
+
+

@@ -1,0 +1,3 @@
+MyILTP Project:
+- Updated the entity profiles in the ERD to better reflect the latest data structure and relationships between modules.
+- Improved the homepage design for a more user-friendly layout and visual consistency with the overall system.
