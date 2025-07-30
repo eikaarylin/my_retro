@@ -1,1 +1,2 @@
-
+There were many errors while separating the admin menu panel functions — but luckily, it's now good to go!
+- Now, it's much easier to add new functions and track errors more efficiently.

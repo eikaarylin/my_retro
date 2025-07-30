@@ -1,1 +1,36 @@
+1. Continue the Task with:
+Filtering:
+- Implement dynamic filtering to allow users to narrow down the results based on specific criteria (e.g., name, role, status, date).
+Ensure the filters are applied efficiently in the query and reflected in the UI.
 
+Pagination (requires params):
+- Add pagination support using parameters such as page, per_page, or limit and offset.
+This helps manage large datasets by displaying data in chunks, improving both performance and user experience.
+
+2. Git Branch Management:
+Use the command:
+git checkout -b a-name-files
+
+- This creates and switches to a new branch named a-name-files.
+
+Purpose:
+Creating a new branch ensures that the main codebase (usually main or master) remains stable and unaffected by your ongoing changes.
+It's a good practice to work on new features or bug fixes in separate branches.
+
+Why it matters:
+This approach allows you to:
+- Keep the main code clean and production-ready.
+- Track specific changes made in the new branch.
+- Easily identify and resolve any issues introduced.
+- Collaborate more effectively with version control and pull requests.
+
+
+
+
+1. Continue the task with:
+- Filtering
+- Pagination (need params)
+
+2. Git checkout -b a-name-files
+- making sure the main coding is good to go!
+- That's how you can track any changes/errors that you've made
