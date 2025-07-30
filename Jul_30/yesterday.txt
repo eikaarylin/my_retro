@@ -1,0 +1,9 @@
+1. Create submenu
+2. Pagination
+
+New Terms:
+- Carousel
+- Hover effect
+- CLick effect
+- Size Pic:  9:16, 1:1
+

@@ -1,1 +1,10 @@
+1. Broken Pagination Code
+- The pagination feature in the system is currently not functioning as expected. This issue became more apparent when I attempted to add additional functions to the page.
+
+2. Too Much Code in a Single File, Menu Content Not Displaying After Splitting
+- Initially, a lot of code was written within a single file, making it harder to manage, maintain, and scale. To improve this,
+the code was modularized by separating it into multiple smaller files (e.g., splitting LiveViews, components, or templates).
+However, after doing this, the content that was supposed to appear under certain menu tabs or sections is no longer being displayed.
+This may be caused by incorrect module references, missing imports, improper LiveView routing, or failure to pass/assign the necessary
+data or state to the separated files.
 

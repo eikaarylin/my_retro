@@ -1,1 +1,25 @@
+1. Current Tasks:
+Create Submenu
+- Add a submenu under the main navigation to organize content more effectively.
+
+Pagination
+- Ensure pagination works correctly, especially with added functions content on the page.
+
+2. UI/UX Terms to Apply or Consider:
+Carousel
+- A slideshow-like component to display multiple images or items within the same space, allowing users to scroll or slide through them.
+
+Hover Effect
+- A visual effect triggered when the user moves their cursor over an element (e.g., button changes color on hover).
+
+Click Effect
+- A visual response (such as a scale, ripple, or color change) when a user clicks an interactive element.
+
+Image Sizes
+- 9:16 — Portrait format, typically used for mobile or vertical content.
+- 1:1 — Square format, commonly used for profile photos or thumbnails.
+
+
+
+
 
