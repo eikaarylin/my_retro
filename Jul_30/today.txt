@@ -24,13 +24,3 @@ This approach allows you to:
 - Easily identify and resolve any issues introduced.
 - Collaborate more effectively with version control and pull requests.
 
-
-
-
-1. Continue the task with:
-- Filtering
-- Pagination (need params)
-
-2. Git checkout -b a-name-files
-- making sure the main coding is good to go!
-- That's how you can track any changes/errors that you've made

@@ -1,0 +1,34 @@
+✅ Task Assigned
+1.Learn how to implement a search bar functionality in the system.
+- Develop the search bar both in the frontend and backend.
+- Prepare a clear and concise documentation explaining how the search bar works, including how the backend handles the search requests
+
+🔧 Self-Initiated Improvements (Enhancements)
+1. Replace Dummy Data with Real Database Records:
+- Initially, dummy data was used for displaying user and admin information. This has been replaced with actual data fetched from the database to ensure
+ real-time accuracy and consistency.
+
+Implement Full Admin Control Functions:
+- Add New Users (Not fully functions)
+- Edit Existing User Information
+- Delete Users
+- Change User Roles (e.g., from user to admin or superadmin)
+
+Dynamic Admin Dashboard with Live Statistics:
+1. The admin dashboard now displays real-time statistics, dynamically calculated based on actual data from the database.
+
+Examples of the statistics include:
+- Total number of users
+- Total number of admins
+- Total activity logs
+
+
+1. Task Given:
+- Learn and do search bar
+- Make documentation of it and how it run (backend)
+
+2. Task improvement (self)
+- Change the dummy data to database data
+- DO functions, admin can edit, add, delete and change user roles
+- dashboard statistic admin,calculated based on database
+
