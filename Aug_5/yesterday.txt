@@ -1,0 +1,1 @@
+- Try to convert the 'Tentang Kami' Figma page design into code using the Cursor (Phoenix Framework), but not finished yet.

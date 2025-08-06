@@ -1,0 +1,10 @@
+1. Assigned Tasks
+- Do a search bar.
+- Develop a working search bar feature.
+- Create documentation explaining how the search bar works, especially on the backend.
+
+2. Self-Initiated Improvements
+- Replace dummy data with actual data from the database.
+- Implement CRUD functions for user management:
+Admin can add, edit, delete, and update user roles.
+- Create a dashboard with admin statistics, calculated dynamically based on database data.

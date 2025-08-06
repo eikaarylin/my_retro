@@ -1,0 +1,1 @@
+- Progress dropped to 35%. More time is needed to implement well-designed functions.

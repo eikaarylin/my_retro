@@ -1,0 +1,2 @@
+- There was a conflict when trying to merge the 'Tentang Kami' homepage into the main coding project.
+Although the problem was resolved, our code was damaged.

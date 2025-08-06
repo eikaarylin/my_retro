@@ -23,12 +23,4 @@ Examples of the statistics include:
 - Total activity logs
 
 
-1. Task Given:
-- Learn and do search bar
-- Make documentation of it and how it run (backend)
-
-2. Task improvement (self)
-- Change the dummy data to database data
-- DO functions, admin can edit, add, delete and change user roles
-- dashboard statistic admin,calculated based on database
 

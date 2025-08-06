@@ -1,0 +1,10 @@
+Admin Panel Design:
+- Status: Reviewed, improvements needed.
+- Next Step: Add functions related to managing programmes – including courses and moduls.
+
+- Once the admin panel design is complete, proceed to the Pemohon Panel.
+- After finishing the Pemohon Panel design, return to the Admin Panel to implement additional functions such as reviewing pemohon applications.
+
+Notes:
+- Unnecessary icons/functions are being removed.
+

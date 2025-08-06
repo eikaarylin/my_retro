@@ -1,0 +1,5 @@
+- Booked 2 sessions with sir for project discussions - MyILTP
+- Designing (50%)
+1. Admin panel - Still in progress
+2. Log in & Register - Done
+
