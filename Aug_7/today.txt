@@ -1,0 +1,8 @@
+1. Admin Panel Review
+- Status: Good to go!
+- Next Steps: Add functions for:
+i. Pembukaan Pengambilan Program
+ii. Permohonan Pemohon
+
+2. Designing the Pemohon Panel
+- A suitable solution has been found: no separate login panel is needed for pemohon.
