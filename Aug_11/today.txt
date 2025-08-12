@@ -1,0 +1,9 @@
+1. Converting Figma design into code
+– Using the plugin Convert Figma Design to HTML/CSS
+– Extracted PNG/SVG assets, HTML, and CSS
+– Created a new file and combined them there
+– Used AI Cursor to convert HTML to HEEx and CSS to Tailwind CSS
+– Requested the design to match the original Figma, providing context and a screenshot/picture of the design for accuracy
+
+2. Completed the design for the "Panel Pelatih" and added the "Pengurusan Pelatih" menu to the admin panel.
+– Design approved.

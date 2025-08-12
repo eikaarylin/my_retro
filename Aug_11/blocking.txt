@@ -1,0 +1,2 @@
+I encountered real problems while designing the "Pelatih Panel" and "Jurulatih Panel" because I don’t fully understand the workflow between them,
+which also caused me to get stuck with the UI.
