@@ -1,5 +1,9 @@
 Coding Week – Implement Figma Design into Code
 
+In progress:
+- About us page
+- Panel Pelatih 
+
 1. Github
 - Assign Sir as the code reviewer.
 - Use a separate branch when making changes.
@@ -8,6 +12,5 @@ Coding Week – Implement Figma Design into Code
 - Create a MyILTP Project Management board in Notion (include tasks, priorities, and estimated hours to complete each part).
 - Assign Sir so he can view the progress.
 
-In progress:
-- About us page
-- Panel Pelatih 
+
+
