@@ -1,0 +1,2 @@
+- There was a conflict during the merging process in GitHub (Tentang Kami page) — unable to merge due to different merge histories.
+* Solution: Create a new branch and copy the edit-about-us coding page into the newly created branch (edit-about-us-2).

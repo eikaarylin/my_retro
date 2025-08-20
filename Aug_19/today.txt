@@ -1,0 +1,5 @@
+Finished the PSM Tahap 5 page and proceeded to edit the INSTEP page.
+
+Learned something new:
+1. Z-index (stacking images)
+- The higher the value you give, the element will appear on top.

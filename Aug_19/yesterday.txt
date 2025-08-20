@@ -1,0 +1,2 @@
+- Merged the "Tentang Kami" page into the main code (GitHub)
+- Created a new column in Notion for PR (link)

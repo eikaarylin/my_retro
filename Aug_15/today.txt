@@ -1,0 +1,3 @@
+- Finished designing the "Tentang_Kami" page
+- Updating the project management in Notion
+
