@@ -1,1 +1,2 @@
-
+Made a mistake while editing the homepage: the carousel overflow was not hidden,
+which caused a blank page to appear on the right side.
