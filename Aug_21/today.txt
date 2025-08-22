@@ -1,1 +1,11 @@
+Learn something new
+- Ini menentukan apa yang berlaku jika kandungan elemen melebihi saiz kotak
+1. Overflow:visible
+- Kandungan yang melebihi saiz kotak akan “tumpah keluar”.
 
+2. Overflow:hidden
+- Kandungan yang melebihi saiz kotak akan dipotong — bahagian yang melebihi tidak akan nampak.
+
+- Posisi
+1. Position: relative
+- Elemen boleh digerakkan dari posisi asal tanpa mengubah aliran dokumen.

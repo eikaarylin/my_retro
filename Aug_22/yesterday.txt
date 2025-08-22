@@ -1,0 +1,9 @@
+Learn something new
+- Ini menentukan apa yang berlaku jika kandungan elemen melebihi saiz kotak
+1. Overflow:visible
+2. Overflow:hidden
+
+
+- Posisi
+1. Position: relative
+
